@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+            "name": "admin-mongo",
+            "script": "npm",
+            "args" : "start"
+        }
+    ]
+}
